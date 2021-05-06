@@ -5,6 +5,10 @@
 
 Here are some ideas to get you started:
 
++ 안녕하세요
+  + 반가워요
+  
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
