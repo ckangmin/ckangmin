@@ -1,13 +1,14 @@
 ### Hi there 👋
++ 안녕하세요
+  + 반가워요
+  
 
 <!--
 **ckangmin/ckangmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-+ 안녕하세요
-  + 반가워요
-  
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
